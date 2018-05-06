@@ -2,9 +2,9 @@
 
 return [
     'database' => [
-        'dbname' => 'todo_lists',
+        'dbname' => 'mvc',
         'username' => 'root',
-        'password' => '',
+        'password' => 'root',
         'driver' => 'mysql',
         'host' => '127.0.0.1',
         'options' => [
